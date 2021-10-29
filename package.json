@@ -1,0 +1,25 @@
+{
+  "name": "knex-intro",
+  "version": "1.0.0",
+  "description": "learning knex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LindsayFarias/knex-warm-up.git"
+  },
+  "author": "lindsayFarias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LindsayFarias/knex-warm-up/issues"
+  },
+  "homepage": "https://github.com/LindsayFarias/knex-warm-up#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.95.12",
+    "pg": "^8.7.1"
+  }
+}
